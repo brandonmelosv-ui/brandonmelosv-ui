@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**brandonmelosv-ui/brandonmelosv-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá! Eu sou o Brandon 👋
 
-Here are some ideas to get you started:
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Desenvolvedor em formação, aprendendo a construir aplicações e resolver problemas por meio da tecnologia.
+
+## 🚀 Sobre mim
+
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas.
+- 👨‍💻 Desenvolvendo projetos para praticar programação.
+- ☁️ Tenho certificado de fundamentos de AWS Cloud Computing.
+- 🎯 Buscando evoluir tecnicamente e conquistar minha primeira oportunidade na área de desenvolvimento.
+
+## 🛠️ Tecnologias em estudo
+
+- Java
+- XML e desenvolvimento Android
+- C#
+- Python
+- HTML, CSS e JavaScript
+
+## 📂 Projetos
+
+### CheckBoxApp
+
+Aplicativo Android desenvolvido com Java e XML para praticar o componente CheckBox e a seleção de múltiplas opções.
+
+🔗 [Acessar o projeto](https://github.com/brandonmelosv-ui/CheckBoxApp)
+
+## 📫 Contato
+
+- GitHub: [@brandonmelosv-ui](https://github.com/brandonmelosv-ui)
